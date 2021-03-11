@@ -11,6 +11,7 @@ This is a small program, which takes user input of two intergers.
 First interger defines starting position from which number to start generate the table.
 Second interger defines the end position.
 
+![screenshot](./src/screenshots/nd2.JPG)
 
 
 ## Project goals
