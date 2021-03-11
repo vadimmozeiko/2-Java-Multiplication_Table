@@ -21,8 +21,6 @@ public class ND {
 
         int num1 = input1;
         int num2 = input2;
-        int result = 0;
-
 
         if (input1 > input2) {
             num1 = input2;
@@ -36,7 +34,9 @@ public class ND {
             System.out.println();
             System.out.println();
             System.out.print(" *");
+
             int count = num1;
+
             while (count <= num2) {
                 System.out.print("\t" + "(" + count + ")");
                 count++;
@@ -44,6 +44,7 @@ public class ND {
 
             System.out.println();
             System.out.println();
+
             int from = num1;
             while (from <= num2) {
 
